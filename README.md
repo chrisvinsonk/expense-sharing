@@ -7,7 +7,7 @@ This is a backend application for managing expenses and splitting them among use
 1. Clone the repository:
    ```
    git clone https://github.com/chrisvinsonk/expense-sharing.git
-   cd daily-expenses-sharing
+   cd expenses-sharing
    ```
 
 2. Create a virtual environment and activate it:
