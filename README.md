@@ -1,6 +1,6 @@
-# Daily Expenses Sharing Application
+# Expenses Sharing Application
 
-This is a backend application for managing daily expenses and splitting them among users. It allows users to add expenses and split them based on three different methods: exact amounts, percentages, and equal splits.
+This is a backend application for managing expenses and splitting them among users. It allows users to add expenses and split them based on three different methods: exact amounts, percentages, and equal splits.
 
 ## Setup and Installation
 
