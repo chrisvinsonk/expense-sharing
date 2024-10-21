@@ -6,7 +6,7 @@ This is a backend application for managing expenses and splitting them among use
 
 1. Clone the repository:
    ```
-   git clone https://github.com/chrisvinsonk/daily-expenses-sharing.git
+   git clone https://github.com/chrisvinsonk/expense-sharing.git
    cd daily-expenses-sharing
    ```
 
