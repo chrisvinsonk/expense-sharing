@@ -5,8 +5,10 @@ import os
 from dotenv import load_dotenv
 
 load_dotenv()
+from flask_cors import CORS
 
 app = Flask(__name__)
+CORS(app, resources={r"/*": {"origins": "https://your-frontend-url.vercel.app"}})
 app.config['SQLALCHEMY_DATABASE_URI'] = os.getenv('DATABASE_URL')
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 
